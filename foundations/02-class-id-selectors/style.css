@@ -1,0 +1,17 @@
+.normalOdd,
+.coolOdd {
+    background: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.coolOdd {
+    font-size: 24px;
+}
+#idOne {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#idTwo {
+    background: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
