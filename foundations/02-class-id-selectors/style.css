@@ -1,9 +1,8 @@
-.normalOdd,
-.coolOdd {
+.odd{
     background: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
-.coolOdd {
+.coolerOdd {
     font-size: 24px;
 }
 #idOne {
